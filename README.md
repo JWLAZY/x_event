@@ -1,2 +1,4 @@
 # x_event
-x_evet_静态页面效果
+x_event 网站的前端页面图(后台.net设计,无法查看)
+
+访问地址 [X_Event](http://jwdev.cn/x_event)
