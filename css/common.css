@@ -1,0 +1,28 @@
+body{color: #5a5a5a;}
+body {
+    background: url("../img/mooning.png") repeat scroll 0 0 #E5E5E5;
+    overflow-x: hidden;
+}
+
+
+
+
+*::-moz-selection {
+    background: none repeat scroll 0px 0px #D3D3D3;
+    color: #555;
+}
+
+.checkbox{
+    margin-left: 20px;
+}
+
+.carousel{margin-top: -20px; margin-bottom: -8px;}
+.carousel .container{position: relative; z-index: 9;}
+.carousel-control{height: 80px; margin-top: 0; font-size: 120px; text-shadow: 0 1px 1px rgba(0,0,0,.4); background-color: transparent; border: 0; z-index: 10;}
+.carousel .item{height: 500px;}
+.carousel img{position: absolute; top: 0; left: 0; min-width: 100%; height: 500px;}
+.carousel-caption{background-color: transparent; position: static; max-width: 550px; padding: 0 20px; margin-top: 150px;}
+.container-login{width:25%; height:400px;position: absolute; right:15%; top:30%; z-index:99;color:#fff;}
+.carousel-caption h1,
+.carousel-caption .lead{margin: 0px; line-height: 1.25;color:#fff;  text-shadow: 0 1px 1px rgba(0,0,0,.4);}
+.carousel-caption .btn{margin-top: 10px;}

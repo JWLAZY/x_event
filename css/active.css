@@ -1,0 +1,80 @@
+body{
+	background:rgb(229,229,229);
+}
+.maincon{
+	/*background: green;*/
+	width:150px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+	font-weight: bold;
+	 color:#fff;
+	 font-size: 20px;
+}
+
+.main-content{
+	background-color:#fff;
+	border-radius: 3px;
+	margin-top:20px;
+}
+.tit{
+	margin:20px 10px;
+	height:45px;
+	width:80%;
+}
+.form{
+margin: 20px;					
+     font-size: 18px;
+}
+em{
+	color:red; 
+	padding: 10px 10px; 
+
+}
+.provice,.city,.place{
+	width: 46.5%;
+	height:40px;
+	line-height: 40px;
+	margin:10px;
+}
+.start{
+	margin:10px 0px;
+	display: inline;
+
+}
+.time{
+	width: 26.5%;
+    height:40px;
+    line-height: 40px;
+     margin: 20px 10px;
+}
+.timer,.place{
+	width:60%;
+	height:40px;
+	line-height: 40px;
+	margin: 20px 10px;
+
+}
+.media-body{
+	font-size: 14px;
+	line-height: 25px;
+	margin-bottom:20px;
+
+}
+.btn.btn-primary.btn-lg{
+	margin-bottom:20px;
+}
+.form-group{margin-top: 20px;
+	}
+.per{
+	height:40px;
+	width:90%;
+	margin: 20px;
+}
+.btn.btn-create-event-state{
+	margin-left: 1020px;
+	}
+.btn.btn-lg.btn-primary{
+	margin-top:20px;
+}
+ 

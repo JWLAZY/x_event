@@ -1,0 +1,4 @@
+ul,li{list-style: none;}
+.list-inline li a{color: #999; text-decoration: none;}
+.list-inline li  a:hover{color: #09C; text-decoration:none;}
+.list-inline li.con-all>a,.list-inline li.con-all>a:hover{color: #09C;}

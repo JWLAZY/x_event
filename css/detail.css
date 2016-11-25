@@ -1,0 +1,23 @@
+ul,li{list-style:none;}
+.detail{padding-left:35px; padding-right:35px; padding-bottom:2%;}
+.row h6{width:100%;text-align:right; font-size:90%; color: #ccc; }
+.row h6:hover{cursor: pointer; color: #999; }
+.appleimg img{margin-top:3%;display:block;border:#0099CC solid 5px;}
+.col-md-6{margin-top:3%;}
+.apply{background-color:#ccc;}
+.apply:hover{color:#fff;background-color:#0099CC;}
+.col-md-6 h4{ font-weight: bold; font-family: "微软雅黑";}
+.col-md-6 p{height:15%;}
+h4.panel-title{display:block; width:100%; height:100%;}
+h4.panel-title a{display:block; width:100%; height:100%; text-decoration:none; text-align:center;}
+.info strong{color:#fff; padding:4px; background-color:#0099CC;}
+.info p{ text-indent:2em;}
+.infomain blockquote{color: red;}
+.ask form{margin-bottom: 5%;}
+.ask button{margin-top: 1%; float: right;}
+.ask span{ margin-left: 55%; color: #999;}
+.huifu{ text-align: right;color: #999;}
+.huifu a{ text-align: right; color: #999; text-decoration:none;}
+.huifu a:hover img{ text-decoration: none; background-color: #0099CC;}
+.huifu a:hover{color: #0099CC;}
+.reply{font-size: 90%;padding-top: 3%; padding-bottom: 2%; background-color: #F5F5F5;}

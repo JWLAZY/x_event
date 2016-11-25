@@ -1,0 +1,65 @@
+
+  body{font:14px/19px Arial,Helvetica,sans-serif;}
+.copyright{width: 100%; height: auto; text-align: center;}
+.navbar-inverse {/*设置背景色*/
+  background-color: #0099CC;
+  border-color: #2fbce7;
+}
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {/*设置无边框色*/
+  border-color: #2fbce7;
+}
+hr.soften1 {
+	height: 1px;
+	margin: 30px 0;
+	background-image: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,.1), rgba(255,255,255,0));
+	background-image: -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,.1), rgba(255,255,255,0));
+	background-image: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,.1), rgba(255,255,255,0));
+	background-image: -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,.1), rgba(255,255,255,0));
+	border: 0;
+}
+hr.soften2 {
+	margin: 0 0 20px 0;
+}
+
+
+/*设置footer部分*/
+.footer {
+	padding: 35px;
+	border-top: 1px solid #e5e5e5;
+	background:url(../images/bg_footer.png);
+	color: #ccc;
+}
+.footer a {text-decoration: none;
+	color: #ccc
+}
+.footer a:hover {
+	color: #0099CC;
+}
+
+.erweima{width:30%;float:left;background-color: green}
+.contact{width:70%;float:left;padding:0px 0px 20% 8px;word-break:break-all;}
+
+#contactform  input{width:100%;height:40px;padding-left: 5px;}
+#contactform  input:focus{box-shadow:0 0 2px #333;}
+#contactform textarea{width:100%;height:60px;color:#333;border: 1px #999 solid;padding-left: 5px;}
+#contactform textarea:focus{box-shadow:0 0 2px #0099CC;}
+.button{background-color:#ccc;boeder:0px none;box-shadow:none;
+	    border-radius: 0.25em;
+        -webkit-appearance: none;
+			position: relative;
+			display: inline-block;
+			border-radius: 0.25em;
+			cursor: pointer;
+			border: 0;
+			color: #333;
+			text-align: center;
+			text-decoration: none;
+			-moz-transition: all 0.25s ease-in-out;
+			-webkit-transition: all 0.25s ease-in-out;
+			-o-transition: all 0.25s ease-in-out;
+			-ms-transition: all 0.25s ease-in-out;
+			transition: all 0.25s ease-in-out;
+	   }
+#submit:hover{background-color:#0099CC };
+/*footer结束*/
